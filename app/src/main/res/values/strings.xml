@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Manga Reader</string>
+    <string name="manga_reader">Manga Reader</string>
+    <string name="copyright">Copyright © 2020 TheTechShrine, All rights reserved</string>
+    <string name="let_s_start">Let\'s start</string>
+    <string name="date_value">31 May 2012</string>
+    <string name="manga_name_value">Solo Leveling</string>
+    <string name="created_label">Added </string>
+    <string name="updated_label">Last update </string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="no_internet_connection">You are not connected to internet</string>
+    <string name="no_subjects">No manga has been found</string>
+    <string name="days_ago">d ago</string>
+    <string name="hours_ago">h ago</string>
+    <string name="minutes_ago">min ago</string>
+    <string name="fit_center">Fit center</string>
+    <string name="center_crop">Center crop</string>
+</resources>
